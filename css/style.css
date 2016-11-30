@@ -763,6 +763,8 @@ header .container {
     color: black;
 }
 
+
+
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
 	.atvImg-container.over .atvImg-shadow {
